@@ -483,6 +483,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Puzzle Loop](https://www.puzzle-loop.com/) - Platform offering logic puzzles with simple rules and challenging solutions.
 - [What Should You Do with Your Life?](https://guzey.com/personal/what-should-you-do-with-your-life/) - Article providing directions and advice on life decisions.
 - [InnerBody](https://www.innerbody.com/) - Research for reviews and researches about health products, services, and more.
+-- [Sleep Time Calculator](https://www.sleepcalculatordaily.com/) - Best 90 minute sleep cycle calculator
 - [Sleep Calculator](https://sleepcalculator.com/) - Tool that helps users determine the best time to go to bed based on their desired wake-up time, optimizing sleep cycles for better rest and alertness.
 - [SimpleLab](https://gosimplelab.com/) - Provides rapid, reliable environmental testing across the U.S., using a cloud-based platform for efficient sampling, testing, and data management.
 - [Sleep Estimator](https://www.sleep-estimator.com/) - Calculates the best bedtime based on your wake-up time to optimize sleep quality and alertness.
